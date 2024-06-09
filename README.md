@@ -1,7 +1,9 @@
-# PDF Generation📝
+# PDF Generation 📝
+
+[![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/kunal9960)
 
 This Python script generates a PDF document based on data from a CSV file. Each row in the CSV represents a programming topic along with the number of pages it should occupy in the PDF.
-
 
 ![Todo](https://github.com/kunal9960/pdf-template/blob/master/Image.png)
 
